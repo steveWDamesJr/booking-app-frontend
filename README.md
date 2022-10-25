@@ -11,7 +11,7 @@ Connect to our [API](https://github.com/Melaku05/booking-app-backendpstone/blob/
 
 ## Link to RAILS BACKEND
 
-[RAILS BACKEND](https://github.com/Melaku05/booking-app-backend)
+[RAILS BACKEND](https://github.com/steveWDamesJr/booking-app-backend)
 
 ## Built With
 - Rails-Booking-App API
